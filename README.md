@@ -22,8 +22,7 @@ This is a Travel Itinerary Management System backend built with Node.js, Express
 - JWT-based authentication
 - Security measures against common vulnerabilities
 - Performance optimization and caching
-- Unit tests
-- API documentation with Swagger or Postman
+- API documentation with Postman
 
 ## Requirements
 
