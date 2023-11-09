@@ -10,9 +10,7 @@ This is a Travel Itinerary Management System backend built with Node.js, Express
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
 - [Documentation](#documentation)
-- [Extra Features](#extra-features)
 - [Contributing](#contributing)
 - [License](#license)
 
