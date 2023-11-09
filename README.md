@@ -80,7 +80,7 @@ The server will run on `http://localhost:8080`.
 
 ## Documentation
 
-API documentation is available at [Swagger Documentation Link] or [Postman Documentation Link].
+API documentation is available at [Postman](https://documenter.getpostman.com/view/12398451/2s9YXiaMvj).
 
 ## Contributing
 
